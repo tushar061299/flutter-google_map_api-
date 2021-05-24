@@ -1,8 +1,6 @@
-# tridhee_application_1
+# Flutter Google MAP using API
 
-A new Flutter project.
-
-## Getting Started
+Implemantation of Google Map using API.
 
 This project is a starting point for a Flutter application.
 
