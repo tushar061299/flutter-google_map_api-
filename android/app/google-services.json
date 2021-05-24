@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929643160377",
+    "project_id": "tridheeapplication1",
+    "storage_bucket": "tridheeapplication1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929643160377:android:bc026b16801f9fa5b57ee8",
+        "android_client_info": {
+          "package_name": "com.example.tridhee_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929643160377-ls1s6a4bq759p5mbpja2ndu1k7gv3cka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB26FGGcTkphAdMbB5r6ZFDN4hZkxcuViE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929643160377-ls1s6a4bq759p5mbpja2ndu1k7gv3cka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
